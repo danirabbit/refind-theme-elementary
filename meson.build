@@ -6,3 +6,8 @@ install_data(
     'refind.conf',
     install_dir: '/boot/efi/EFI/refind'
 )
+
+install_subdir(
+    'elementary',
+    install_dir: '/boot/efi/EFI/refind'
+)

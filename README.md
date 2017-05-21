@@ -4,6 +4,7 @@
 
 You'll need the following dependencies:
 * meson
+* librsvg2-bin
 
 Run `meson build` to configure the build environment and then change to the build directory
 

@@ -12,7 +12,11 @@ icons = [
     'func_exit',
     'func_firmware',
     'func_reset',
-    'func_shutdown'
+    'func_shutdown',
+    'vol_external',
+    'vol_internal',
+    'vol_net',
+    'vol_optical'
 ]
 
 foreach icon : icons

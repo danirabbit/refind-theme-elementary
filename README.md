@@ -1,5 +1,7 @@
 # elementary rEFInd theme
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 You'll need the following dependencies:
